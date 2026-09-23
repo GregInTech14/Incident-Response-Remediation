@@ -1,0 +1,6 @@
+# Allow all standard web crawlers and search engine indexing
+User-agent: *
+Allow: /
+
+# Disallow specific non-technical or meta files if needed
+Disallow: /docs/private/
